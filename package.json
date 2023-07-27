@@ -1,6 +1,6 @@
 {
   "$schema": "./.vscode/package.schema.json",
-  "name": "stitches",
+  "name": "@mpalmerlee/stitches",
   "type": "module",
   "license": "MIT",
   "contributors": [
